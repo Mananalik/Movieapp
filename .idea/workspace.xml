@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb3cd0b-6d8e-489e-9b44-94f28efe1175" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/services/appwrite.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TrendingCard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/appwrite.ts" beforeDir="false" afterPath="$PROJECT_DIR$/services/appwrite.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,7 @@
       <workItem from="1743613745198" duration="2810000" />
       <workItem from="1743825863756" duration="13012000" />
       <workItem from="1744438501780" duration="2362000" />
-      <workItem from="1744631190639" duration="4665000" />
+      <workItem from="1744631190639" duration="7602000" />
     </task>
     <servers />
   </component>
